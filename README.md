@@ -1,4 +1,4 @@
-# 👋 Hi, I’m The Backend Forge
+# 👋 Hi, I’m thebackendforge
 
 Welcome to my GitHub! I’m a backend engineer with 4+ years of experience building **scalable, production-ready backend systems**. Here, I share:
 
@@ -33,7 +33,7 @@ I regularly write about backend development and learning journeys:
 
 ## 📫 Connect / Follow
 - GitHub: [thebackendforge](https://github.com/thebackendforge)  
-- Twitter/X:
+- Twitter/X: https://x.com/thebackendf0rge
 - Email: thebackendforge@gmail.com 
 
 ---
