@@ -2,15 +2,16 @@
 
 Welcome to my GitHub! I’m a backend engineer with 4+ years of experience building **scalable, production-ready backend systems**. Here, I share:
 
-- Personal projects & experiments  
-- Backend engineering concepts & best practices  
-- Currently Learning System design, Problem Solving and GenAI
-- Learning in Public
-
+- Java & Spring Boot
+- SQL & Databases
+- Backend Development
+- System Design
+- Problem Solving
+- GenAI
 ---
 
 ## 🛠 What I’m Working On
-- Improving system design skills & building small-scale distributed systems  
+- Improving system design skills & problem solving
 - Exploring Generative AI applications for backend workflows  
 - Writing technical articles to share knowledge with the community  
 
